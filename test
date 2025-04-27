@@ -1,0 +1,6 @@
+def moyenne(l):
+    res=0
+    for i in l :
+        res+=i
+    return(res/len(l))
+    
